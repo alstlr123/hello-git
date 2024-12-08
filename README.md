@@ -1,3 +1,3 @@
 This is the README file for the Hello-world project.
 
-author's email : alice
+Author's email dkdkdk.co.kr
